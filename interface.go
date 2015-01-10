@@ -1,5 +1,5 @@
 package structs
 
 type SturctsFieldFunc interface{
-  Field(name string) *Structs.Field
+  Field(name string) *structs.Field
 }
